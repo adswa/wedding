@@ -1,0 +1,52 @@
+about:
+  enable : true
+  title : "Ein wahnsinns-Team!"
+  description : "Liebe Freunde, Verwandte, und generell Schaulustige,"
+  content : "**Wir tun's - Wir heiraten!**"
+  image : "images/bangkok.jpg"
+
+################################ pricing ################################
+pricing:
+  enable : true
+  pricing_table:
+    # pricing table loop
+    - name : "Organisationstalent"
+      price: "Natalie"
+      content : "Als Arbeits- und Organisationspsychologin hat sie den vollen Plan"
+      link : "#"
+      bg_image : "images/pfingsrosen.jpg"
+      services:
+        - lustige Tags
+        - mehr lustige tags
+        
+    # pricing table loop
+    - name : "Alter Hase"
+      price: "Matthias"
+      content : "Als Ehemann hat Matthias mittlerweile langjährige Hochzeitserfahrung"
+      link : "#"
+      services:
+        - lustige Tags
+        - mehr lustige tags
+        
+    # pricing table loop
+    - name : "???"
+      price: "Kai"
+      content : "Controller mit Herzblut"
+      link : "#"
+      services:
+        - lustige Tags
+        - mehr lustige tags
+
+    # pricing table loop
+    - name : "???"
+      price: "Kai"
+      content : "Controller mit Herzblut"
+      link : "#"
+      services:
+        - lustige Tags
+        - mehr lustige tags
+        
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"

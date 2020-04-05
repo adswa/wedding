@@ -1,0 +1,127 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/pfingsrosen.jpg"
+  title : "Wir heiraten!"
+  content : "Am 18.09.2020 geben wir uns im kleinen Kreis bei unserer standesamtlichen Trauung das Ja-Wort.
+  Genau ein Jahr später, am 18.09.2021, wollen wir unsere Hochzeit mit einer freien Trauung im MMI Hotel
+  in Braunschweig feiern."
+  button:
+    enable : true
+    label : "Zur Feier!"
+    link : "project"
+
+############################# Willkommen #################################
+about:
+  enable : true
+  title : "Willkommen!"
+  description : "Liebe Freunde, Verwandte, und generell Schaulustige,"
+  content : "
+  **Wir tun's - Wir heiraten!**
+
+
+  Hallo Steuerklasse 4 mit Faktor, hallo gemeinsamer Nachname, hallo weiterer
+  Jahrestag, den wir gemeinsam vergessen können!
+
+
+  Wir freuen uns riesig darauf, gemeinsam mit euch unseren großen Tag gebührend
+  zu feiern. Auf dieser Webseite findet ihr alle wichtigen Informationen über
+  unsere Hochzeit und alle relevanten Kontaktdaten. Schaut ruhig immer mal
+  wieder vorbei, denn je näher wir der Hochzeit kommen, desto mehr Details können
+  wir euch hier verraten.
+
+
+  Unter dem Reiter   [**Feiern**](project) findet ihr alle wichtigen Infos zu unserer
+  standesamtlichen Trauung im kleinen Kreis am 18.09.2020, und zu unserer
+  Hochzeitsfeier mit großer Party am 18.09.2021.
+
+
+   **Wir freuen uns, gemeinsam mit euch zu feiern!** "
+  image : "images/bangkok.jpg"
+
+
+######################### Generelles zu den Feiern ###############################
+portfolio:
+  enable : true
+  bg_image : "images/flower_whitebg.jpg"
+  title : "WIE WIR FEIERN"
+  content : "
+  Unseren Hochzeitstag, den 18.09., feiern wird gleich zweimal. Im Jahr 2020 mit
+  einer standesamtlichen Trauung im kleinen Kreis, im Jahr 2021 mit einer großen
+  Feier.
+
+
+  Blablabla .
+
+
+  Blablablabla .
+  "
+  button:
+    enable : true
+    label : "Hier gibt es alle Infos"
+    link : "project"
+
+
+############################# Service ############################
+service:
+  enable : false
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "We design delightful digital experiences."
+  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  button:
+    enable : true
+    label : "Tell Us Your Story"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Fun Facts"
+  description : "
+  Insgesamt sind Adina und Gunnar ausgesprochen langweilig. Hier sind trotzdem
+  ein paar lustige Fakten"
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-ios-clock" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Beziehungszeit in Monaten bei Hochzeit"
+      count : "105"
+      
+    # funfacts item loop
+    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Noch ein funfact"
+      count : "45"
+      
+    # funfacts item loop
+    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "noch ein funfact"
+      count : "125"
+      
+    # funfacts item loop
+    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "noch ein funfact"
+      count : "200"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Adina Wagner"
+      image : "images/clients/adina.jpg"
+      designation : "Braut"
+      content : "Juhu, wir werden uns alle betrinken!"
+                
+    # testimonial item loop
+    - name : "Gunnar Behrens"
+      image : "images/clients/gunnar.jpg"
+      designation : "Bräutigam"
+      content : "Hauptsache es wird nicht zu laut."
+                
+    # testimonial item loop
+    - name : "Monika Wagner"
+      image : "images/clients/avater-3.jpg"
+      designation : "Brautmutter"
+      content : "Es wird erst nach Hause gegangen, wenn die Hochzeitstorte aufgegessen ist!"

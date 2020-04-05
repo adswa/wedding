@@ -1,0 +1,93 @@
+########################### ABOUT MMI HOTEL #############################
+about:
+  enable : true
+  title : "Das MMI Hotel"
+  content : "Wir feiern unsere Hochzeit im..."
+  image : "images/wedding_location.jpeg"
+
+
+########################## featured service ############################
+featured_service:
+  enable : true
+  service_item:
+    - name : "Anfahrt mit öffentlichen Verkehrsmitteln"
+      icon : "ion-android-bicycle"
+      color : "primary-darker"
+      content : "
+      Wenn ihr mit dem **Zug** bis zum Braunschweiger Hauptbahnhof anreist und
+      nach langem Sitzen etwas spazieren gehen wollt ist das Hotel innerhalb von
+      einer Dreiviertel Stunde zu Fuß erreichbar. Eine Google Maps Navigation findet
+      ihr [**hier**](https://goo.gl/maps/Y3rMMBotupAxAk5a9). Alternativ erreicht ihr
+      das Hotel in etwa 10 Minuten mit dem Taxi. Wenn ihr **öffentliche Verkehrsmittel**
+      benutzen wollt, nehmt den Bus **411** ab Hauptbahnhof bis Kastanienallee,
+      und steigt dann in die **413** bis zur Haltestelle
+      [**Kreuzteich**](https://www.google.de/maps/place/Braunschweig+Kreuzteich/@52.2702431,10.5714898,17z/data=!4m5!3m4!1s0x47aff5b29c758459:0xdc0cde0ebe08c653!8m2!3d52.2701701!4d10.5712898). Von
+      dort ist es ein etwa 5 minütiger Spaziergang durch Riddagshausen bis zum MMI."
+
+    - name : "Anfahrt mit dem Auto"
+      icon : "ion-android-car"
+      color : "primary-dark"
+      content : "
+      Das MMI ist auch für eine Anreise mit dem Auto gut geeignet.
+      Riddagshausen liegt im östlichen Teil Braunschweigs, nahe der A2 und A39.
+      Im Hotel steht uns eine Tiefgarage mit 80 Plätzen, sowie ein Außenbereich
+      mit 80 weiteren Parkplätzen kostenfrei zur Verfügung."
+
+    - name : "Fahrgemeinschaften"
+      icon : "ion-android-bus"
+      color : "primary-darker"
+      content : "Wenn ihr Interesse habt, ein Fahrgemeinschaftsangebot anzubieten
+      oder in Anspruch zu nehmen, organisiert euch bitte mit anderen Gästen über
+      [**dieses Spreadsheet**](https://docs.google.com/spreadsheets/d/1BdZI3kiwL8bz9bSJ6Z2-OicwBFs0P4gHv6cTJJKgjC4/edit?usp=sharing)."
+
+      
+############################# ÜBERNACHTEN ###############################
+service:
+  enable : true
+  title : "Übernachten"
+  description : "Nach der Hochzeitsfeier werden Gunnar und Adina im MMI Hotel übernachten. Wenn ihr
+  eine weite Anreise habt, und eine Übernachtungsmöglichkeit in Braunschweig sucht,
+  haben wir hier einige Möglichkeiten zusammengetragen."
+  service_item:
+
+    - icon : ion-ios-home #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Im MMI Hotel
+      content: "Das MMI ist ein großes Tagungshotel mit Einzel- (99€) und Doppelzimmern (149€).
+      Bis August 2021 ist ein Zimmerkontingent für uns vorgemerkt und unter dem Stichwort
+      'Adina und Gunnars Hochzeit' unter 0531-3702-0 reservierbar. Leider ist das Hotel
+      nicht das günstigste - dafür könnt ihr direkt von der Bar ins Zimmer fallen,
+      und am nächsten Morgen gemeinsam mit uns frühstücken."
+
+    - icon : ion-location #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: In der Nähe
+      content: "In Fußläufiger Distanz zum MMI gibt es das
+      [**Landhaus Seela**](https://www.hotel-landhaus-seela.de/zimmer.html) und das
+      [**Hotel Aquarius**](https://www.hotel-aquarius.de/),
+      sowie die [**Ferienapartments Casa del Sol**](https://www.appartementhotel-bs.de/de/start/).
+      Beide Hotels haben Doppelzimmer um circa 70€ pro Nacht, und einfache
+      Ferienapartments liegen bei unter 50€. Wenn ihr am nächsten Morgen
+      gemeinsam mit uns im MMI frühstücken wollt, gebt uns gerne Bescheid -
+      wir werden ein Frühstück für euch dazu buchen. "
+
+    - icon: ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Nur Frühstück
+      content: "Ihr übernachtet nicht im MMI, wollt aber am nächsten morgen mit dem Brautpaar frühstücken?
+    Gebt uns Bescheid, wir regeln das!"
+
+    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Innerhalb Braunschweigs
+      content: " Wenn ihr näher an Innenstadt oder Bahnhof (15-20 Minuten mit dem Rad,
+      10 mit dem Auto vom MMI entfernt) übernachten wollt, gibts eine Menge Hotels
+      und Unterkünfte unterschiedlicher Preisklassen.
+      Bei [**booking.com**](https://www.booking.com/searchresults.de.html?label=gen173nr-1FCAEoggI46AdIM1gEaDuIAQGYAQe4ARnIAQ_YAQHoAQH4AQuIAgGoAgO4Arjy_fMFwAIB&sid=6f9422d80438876230f592c5e205a0cd&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=19&checkin_year=2020&checkout_month=9&checkout_monthday=20&checkout_year=2020&class_interval=1&dest_id=-1751596&dest_type=city&dtdisc=0&from_sf=1&genius_rate=1&group_adults=2&group_children=0&iata=BWE&inac=0&index_postcard=0&label_click=undef&no_rooms=1&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=b87a7447acf500a0&ss=Braunschweig%2C%20Niedersachsen%2C%20Deutschland&ss_all=0&ss_raw=Braunschweig&ssb=empty&sshis=0&top_ufis=1&nflt=distance%3D1000%3B&rsf=#map_opened-b_google_map_thumbnail) findet ihr eine große Auswahl. "
+
+    - icon : ion-ios-home-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Couch Surfing
+      content: "Wenn ihr Interesse habt, ein Couch Surfing Angebot anzubieten
+      oder in Anspruch zu nehmen, organisiert euch bitte mit anderen Gästen über
+      [**dieses Spreadsheet**](https://docs.google.com/spreadsheets/d/1GCsxpTKIZYy3OWwj431mitrD8RKpkyF1WFF7mxxXDKo/edit?usp=sharing)."
+
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"
