@@ -17,8 +17,7 @@ featured_service:
       Wenn ihr mit dem **Zug** bis zum Braunschweiger Hauptbahnhof anreist und
       nach langem Sitzen etwas spazieren gehen wollt ist das Hotel innerhalb von
       einer Dreiviertel Stunde zu Fuß erreichbar. Eine Google Maps Navigation findet
-      ihr [**hier**](https://goo.gl/maps/Y3rMMBotupAxAk5a9). Alternativ erreicht ihr
-      das Hotel in etwa 10 Minuten mit dem Taxi. Wenn ihr **öffentliche Verkehrsmittel**
+      ihr [**hier**](https://goo.gl/maps/Y3rMMBotupAxAk5a9). Wenn ihr **öffentliche Verkehrsmittel**
       benutzen wollt, nehmt den Bus **411** ab Hauptbahnhof bis Kastanienallee,
       und steigt dann in die **413** bis zur Haltestelle
       [**Kreuzteich**](https://www.google.de/maps/place/Braunschweig+Kreuzteich/@52.2702431,10.5714898,17z/data=!4m5!3m4!1s0x47aff5b29c758459:0xdc0cde0ebe08c653!8m2!3d52.2701701!4d10.5712898). Von
@@ -26,19 +25,31 @@ featured_service:
 
     - name : "Anfahrt mit dem Auto"
       icon : "ion-android-car"
-      color : "primary-dark"
+      color : "primary-light"
       content : "
       Das MMI ist auch für eine Anreise mit dem Auto gut geeignet.
       Riddagshausen liegt im östlichen Teil Braunschweigs, nahe der A2 und A39.
       Im Hotel steht uns eine Tiefgarage mit 80 Plätzen, sowie ein Außenbereich
-      mit 80 weiteren Parkplätzen kostenfrei zur Verfügung."
+      mit 80 weiteren Parkplätzen kostenfrei zur Verfügung.
+      Alternativ erreicht ihr das Hotel in etwa 10 Minuten ab Hauptbahnhof
+      mit dem Taxi.
+
+      Wenn ihr Auto fahrt, und noch einen Platz frei habt, freuen wir uns, wenn
+      ihr euch mit anderen Gästen zusammenschließt und Fahrgemeinschaften bildet.
+      "
 
     - name : "Fahrgemeinschaften"
       icon : "ion-android-bus"
       color : "primary-darker"
-      content : "Wenn ihr Interesse habt, ein Fahrgemeinschaftsangebot anzubieten
+      content : "Wenn ihr Interesse habt, ein Fahrgemeinschafts-angebot anzubieten
       oder in Anspruch zu nehmen, organisiert euch bitte mit anderen Gästen über
-      [**dieses Spreadsheet**](https://docs.google.com/spreadsheets/d/1BdZI3kiwL8bz9bSJ6Z2-OicwBFs0P4gHv6cTJJKgjC4/edit?usp=sharing)."
+      [**dieses Spreadsheet**](https://docs.google.com/spreadsheets/d/1BdZI3kiwL8bz9bSJ6Z2-OicwBFs0P4gHv6cTJJKgjC4/edit?usp=sharing).
+
+
+      Natürlich könnt ihr über diese Tabelle auch gemeinsame Spaziergänge ab
+      Hauptbahnhof oder auch eine Prä-Hochzeitsfeier-Radtour durch das wunderschöne
+      [**Naturschutzgebiet in Riddagshausen**](https://de.wikipedia.org/wiki/Riddagshausen_(Naturschutzgebiet))
+      organisieren. Bei Fragen, kontaktiert gern das Brautpaar oder ihre Trauzeugen."
 
       
 ############################# ÜBERNACHTEN ###############################
@@ -69,16 +80,17 @@ service:
       gemeinsam mit uns im MMI frühstücken wollt, gebt uns gerne Bescheid -
       wir werden ein Frühstück für euch dazu buchen. "
 
-    - icon: ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Nur Frühstück
-      content: "Ihr übernachtet nicht im MMI, wollt aber am nächsten morgen mit dem Brautpaar frühstücken?
-    Gebt uns Bescheid, wir regeln das!"
+    #- icon: ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    #  name: Nur Frühstück
+    #  content: "Ihr übernachtet nicht im MMI, wollt aber am nächsten morgen mit dem Brautpaar frühstücken?
+    #  Gebt uns Bescheid, wir regeln das!"
 
     - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Innerhalb Braunschweigs
       content: " Wenn ihr näher an Innenstadt oder Bahnhof (15-20 Minuten mit dem Rad,
-      10 mit dem Auto vom MMI entfernt) übernachten wollt, gibts eine Menge Hotels
-      und Unterkünfte unterschiedlicher Preisklassen.
+      10 mit dem Auto vom MMI entfernt) übernachten wollt, gibt es eine Menge Hotels
+      und Unterkünfte unterschiedlicher Preisklassen in zentralen Stadtteilen
+      Braunschweigs.
       Bei [**booking.com**](https://www.booking.com/searchresults.de.html?label=gen173nr-1FCAEoggI46AdIM1gEaDuIAQGYAQe4ARnIAQ_YAQHoAQH4AQuIAgGoAgO4Arjy_fMFwAIB&sid=6f9422d80438876230f592c5e205a0cd&tmpl=searchresults&ac_click_type=b&ac_position=0&checkin_month=9&checkin_monthday=19&checkin_year=2020&checkout_month=9&checkout_monthday=20&checkout_year=2020&class_interval=1&dest_id=-1751596&dest_type=city&dtdisc=0&from_sf=1&genius_rate=1&group_adults=2&group_children=0&iata=BWE&inac=0&index_postcard=0&label_click=undef&no_rooms=1&postcard=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&srpvid=b87a7447acf500a0&ss=Braunschweig%2C%20Niedersachsen%2C%20Deutschland&ss_all=0&ss_raw=Braunschweig&ssb=empty&sshis=0&top_ufis=1&nflt=distance%3D1000%3B&rsf=#map_opened-b_google_map_thumbnail) findet ihr eine große Auswahl. "
 
     - icon : ion-ios-home-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
