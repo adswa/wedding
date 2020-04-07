@@ -190,7 +190,7 @@ contentDir = "content/english"
 weight = 1
 home = "Willkommen"
 # copyright
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Created by Adina; based on the airspace theme by [Themefisher](https://themefisher.com)"
 
 ################################ France Language ########################
 [Languages.de]
