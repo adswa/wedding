@@ -1,6 +1,6 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
+title: "Fragen?"
+description: "Über dieses Formular erreicht ihr die Trauzeugen"
 draft: false
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/question.jpg"
 ---
