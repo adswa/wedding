@@ -75,7 +75,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Weiteres"
   name = "Trauzeugen"
-  URL = "pricing"
+  URL = "trauzeugen"
   
 [[menu.main]]
 name = "Kontakt"
@@ -96,12 +96,12 @@ weight = 1
 
 [[menu.footer]]
 name = "Das MMI Hotel"
-URL = "service"
+URL = "mmi"
 weight = 2
 
 [[menu.footer]]
 name = "Trauzeugen"
-URL = "pricing"
+URL = "trauzeugen"
 weight = 4
 
 [[menu.footer]]
