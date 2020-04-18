@@ -9,7 +9,7 @@ banner:
   button:
     enable : true
     label : "Zur Feier!"
-    link : "project"
+    link : "feiern"
 
 ############################# Willkommen #################################
 about:
@@ -31,7 +31,7 @@ about:
   wir euch hier verraten.
 
 
-  Unter dem Reiter   [**Feiern**](feiern) findet ihr alle wichtigen Infos zu unserer
+  Unter dem Reiter [**Feiern**](feiern) findet ihr alle wichtigen Infos zu unserer
   standesamtlichen Trauung im kleinen Kreis am 18.09.2020, und zu unserer
   Hochzeitsfeier mit großer Party am 18.09.2021.
 
@@ -59,7 +59,7 @@ portfolio:
   button:
     enable : true
     label : "Hier gibt es alle Infos"
-    link : "project"
+    link : "feiern"
 
 
 ############################# Service ############################
@@ -111,18 +111,18 @@ funfacts:
   testimonial_slider:
     # testimonial item loop
     - name : "Adina Wagner"
-      image : "images/clients/adina.jpg"
+      image : "images/clients/adina2.jpg"
       designation : "Braut"
       content : "Juhu, wir werden uns alle betrinken!"
                 
     # testimonial item loop
     - name : "Gunnar Behrens"
-      image : "images/clients/gunnar.jpg"
+      image : "images/clients/gunnar2.jpg"
       designation : "Bräutigam"
       content : "Hauptsache es wird nicht zu laut."
                 
     # testimonial item loop
     - name : "Monika Wagner"
-      image : "images/clients/avater-3.jpg"
+      image : "images/clients/moni.jpg"
       designation : "Brautmutter"
       content : "Es wird erst nach Hause gegangen, wenn die Hochzeitstorte aufgegessen ist!"
