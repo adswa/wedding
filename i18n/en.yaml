@@ -1,5 +1,5 @@
 - id: last_update
-  translation: Last updated
+  translation: Zuletzt geändert
 - id: phone
   translation: Telefon
 - id: email
@@ -11,20 +11,20 @@
 - id: address_title
   translation: Anfahrt zum Hotel
 - id: submit
-  translation: Send Message
+  translation: Abschicken
 - id: all
-  translation: All
+  translation: Alles
 - id: posted_by
-  translation: Posted By
+  translation: Geposted von
 - id: read_more
-  translation: Continue Reading
+  translation: Mehr Infos
 - id: latest_posts
-  translation: Latest Posts
+  translation: Neuigkeiten
 - id: page_prev
-  translation: Prev
+  translation: Zurücl
 - id: page_next
-  translation: Next
+  translation: Weiter
 - id: tags
-  translation: Tags
+  translation: Thema
 - id: categories
-  translation: Categories
+  translation: Kategorien

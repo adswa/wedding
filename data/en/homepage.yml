@@ -31,7 +31,7 @@ about:
   wir euch hier verraten.
 
 
-  Unter dem Reiter   [**Feiern**](project) findet ihr alle wichtigen Infos zu unserer
+  Unter dem Reiter   [**Feiern**](feiern) findet ihr alle wichtigen Infos zu unserer
   standesamtlichen Trauung im kleinen Kreis am 18.09.2020, und zu unserer
   Hochzeitsfeier mit großer Party am 18.09.2021.
 
@@ -64,7 +64,7 @@ portfolio:
 
 ############################# Service ############################
 service:
-  enable : true
+  enable : false
   # service content comes from "data/*/service.yml" file
 
 
