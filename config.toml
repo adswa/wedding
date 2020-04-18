@@ -86,7 +86,7 @@ weight = 6
 # footer menu
 [[menu.footer]]
 name = "Brautleute"
-URL = "about"
+URL = "brautleute"
 weight = 3
 
 [[menu.footer]]
