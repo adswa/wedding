@@ -1,5 +1,7 @@
 ---
 title: "Standesamtliche Trauung"
+date: "2020-04-18T00:00:00Z"
+author: "Adina"
 description: "18.09.2020"
 draft: false
 image : "images/portfolio/ballons.jpg"
@@ -20,10 +22,24 @@ information:
 
 ## Unsere Standesamtliche Trauung
 
-Am **18.09.2020** feiern wir im kleinen Kreis unsere standesamtliche Trauung
-in der [Jakob Kemenate](https://www.kemenaten-braunschweig.de/) in Braunschweig.
+Am **18.09.2020** feiern unsere standesamtliche Trauung wir im kleinen Kreis
+(enge Familie und Trauzeugen) in der
+[**Jakob Kemenate**](https://www.kemenaten-braunschweig.de/) in Braunschweig.
+Nach der Trauung freuen wir uns auf ein gemeinsames Mittagessen bei einer
+[**kulinarischen Floßfahrt**](https://www.flussgenuss.eu/) durch Braunschweig.
 
 ### Ablauf
 
-Die standesamtliche Trauung beginnt um 11.15 im oberen Stockwerk der Kemenate.
-Anschließend wollen wir gemeinsam ...
+Die standesamtliche Trauung beginnt um 11.15 Uhr im oberen Stockwerk der Kemenate.
+Falls ihr mit dem Auto anreist sollte es Parkplätze im Parkhaus am Eiermark geben,
+in unmittelbarer Nähe zur Kemenate.
+Die Kemenate ist etwas versteckt. Ihr erreicht sie durch eine kleine Seitenstraße,
+und eine große Wandbemalung weist zu ihr.
+
+Nach unserer Trauung stoßen wir gemeinsam vor der Kemenate in der wunderschönen
+Altstadt Braunschweig mit einem Sekt an.
+Anschließend gehen wir gemeinsam in die ... TODO ... zum Bootsanleger und
+erleben eine kulinarische Floßtour durch Braunschweig mit 3-Gänge Menü.
+
+Bitte teilt uns mit, ob ihr Lebensmittelunverträglichkeiten habt, oder eine
+vegetarische oder vegane Hauptspeise wünscht.
