@@ -41,12 +41,6 @@ link = "plugins/google-map/gmap.js"
   
 ############################## navigation ###############################
 
-# main menu
-[[menu.main]]
-name = "Brautleute"
-URL = "about"
-weight = 3
-
 [[menu.main]]
 name = "Feiern"
 URL = "feiern"
@@ -69,10 +63,16 @@ name = "Das MMI Hotel"
 URL = "mmi"
 weight = 2
 
+# main menu
 [[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
+name = "Trauzeugen"
+URL = "trauzeugen"
+weight = 3
+
+#[[menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 4
 
 [[menu.main]]
 weight = 5
@@ -85,9 +85,10 @@ hasChildren = true
   URL = "faq"
 
   [[menu.main]]
+  name = "Brautleute"
+  URL = "about"
   parent = "Weiteres"
-  name = "Trauzeugen"
-  URL = "trauzeugen"
+
   
 [[menu.main]]
 name = "Kontakt"
