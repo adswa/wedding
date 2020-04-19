@@ -52,6 +52,18 @@ name = "Feiern"
 URL = "feiern"
 weight = 1
 
+  [[menu.main]]
+  parent = "Feiern"
+  name = "Standesamt"
+  URL = "feiern/standesamt"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Feiern"
+  name = "Hochzeitsfeier"
+  URL = "feiern/zeremonie"
+  weight = 1
+
 [[menu.main]]
 name = "Das MMI Hotel"
 URL = "mmi"
