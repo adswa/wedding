@@ -29,4 +29,4 @@ Am **18.09.2021**, ein Jahr nach unserer standesamtlichen Trauung, ...BLABLA
 ### Das MMI Hotel
 
 Für mehr Informationen zum Hotel, der Anfahrt, und Übernachtungen, schaut euch
-bitte [den Reiter "Das MMI Hotel"](../../service) an
+bitte [den Reiter "Das MMI Hotel"](../../mmi) an
