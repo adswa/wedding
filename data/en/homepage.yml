@@ -85,28 +85,38 @@ funfacts:
   enable : true
   title : "Fun Facts"
   description : "
-  Insgesamt sind Adina und Gunnar ausgesprochen langweilig. Hier sind trotzdem
-  ein paar lustige Fakten"
+  Insgesamt sind Adina und Gunnar ausgesprochen langweilig. Aber wusstet ihr,
+  dass sie..."
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-clock" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Beziehungszeit in Monaten bei Hochzeit"
+      name : "Monate Beziehung bisher überstanden haben, ..."
       count : "105"
-      
+
+    # funfacts item loop
+    - icon : "ion-earth" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "davon in Fernbeziehungen über insgesamt 3 Länder?"
+      count : "12"
+
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Noch ein funfact"
-      count : "45"
-      
+      name : "Länder gemeinsam bereist haben,"
+      count : "17"
+
+    # funfacts item loop
+    - icon : "ion-android-train" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "davon ausschließlich mit dem Zug?"
+      count : "10"
+
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "noch ein funfact"
-      count : "125"
+      name : "Abschlüsse erhalten (Abi, BSc, MSc)..."
+      count : "6"
       
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "noch ein funfact"
-      count : "200"
+      name : "...und Gunnar dabei immer exakt 0.1 Notenpunkte besser war? (das Schwein)"
+      count : "0.1"
 
   testimonial_slider:
     # testimonial item loop
