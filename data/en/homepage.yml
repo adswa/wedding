@@ -136,3 +136,21 @@ funfacts:
       image : "images/clients/moni.jpg"
       designation : "Brautmutter"
       content : "Es wird erst nach Hause gegangen, wenn die Hochzeitstorte aufgegessen ist!"
+
+    # testimonial item loop
+    - name : "Adina Wagner"
+      image : "images/clients/adina4.jpg"
+      designation : "Braut"
+      content : "HAB ICH DA ETWA ALKOHOL GEHÖRT?!"
+
+    # testimonial item loop
+    - name : "Adina Wagner"
+      image : "images/clients/adina3.jpg"
+      designation : "Braut"
+      content : "okay, ja, es wird auch was zu essen geben..."
+
+    # testimonial item loop
+    - name : "Adina Wagner"
+      image : "images/clients/adina5.jpg"
+      designation : "Braut"
+      content : "... aber auch Alkohol!"
