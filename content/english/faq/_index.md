@@ -21,6 +21,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
+#### Und wie heißt ihr beide dann mit Nachnamen?
+
+Wir haben uns für den langweiligeren von zwei langweiligen Nachnamen entschieden
+und werden Gunnar und Adina Wagner.
+
 #### Wie habt ihr diese über-coole Webseite gemacht?
 
 Adina hatte zu viel Zeit (danke, Corona), und Lust mehr darüber zu lernen wie man mit mit
