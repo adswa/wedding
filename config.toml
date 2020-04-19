@@ -193,11 +193,11 @@ home = "Willkommen"
 copyright = "Created by Adina; based on the airspace theme by [Themefisher](https://themefisher.com)"
 
 ################################ France Language ########################
-[Languages.de]
-languageName = "De"
-languageCode = "de-de"
-contentDir = "content/french"
-weight = 2
-home = "Home"
-# copyright
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+#[Languages.de]
+#languageName = "De"
+#languageCode = "de-de"
+#contentDir = "content/french"
+#weight = 2
+#home = "Home"
+## copyright
+#copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
