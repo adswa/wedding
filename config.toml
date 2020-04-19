@@ -84,35 +84,35 @@ weight = 6
 
 
 # footer menu
-[[menu.footer]]
-name = "Brautleute"
-URL = "brautleute"
-weight = 3
+#[[menu.footer]]
+#name = "Brautleute"
+#URL = "brautleute"
+#weight = 3
 
-[[menu.footer]]
-name = "Feiern"
-URL = "feiern"
-weight = 1
+#[[menu.footer]]
+#name = "Feiern"
+#URL = "feiern"
+#weight = 1
 
-[[menu.footer]]
-name = "Das MMI Hotel"
-URL = "mmi"
-weight = 2
+#[[menu.footer]]
+#name = "Das MMI Hotel"
+#URL = "mmi"
+#weight = 2
 
-[[menu.footer]]
-name = "Trauzeugen"
-URL = "trauzeugen"
-weight = 4
+#[[menu.footer]]
+#name = "Trauzeugen"
+#URL = "trauzeugen"
+#weight = 4
 
-[[menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
+#[[menu.footer]]
+#name = "FAQ"
+#URL = "faq"
+#weight = 5
 
-[[menu.footer]]
-name = "Kontakt"
-URL = "contact"
-weight = 6
+#[[menu.footer]]
+#name = "Kontakt"
+#URL = "contact"
+#weight = 6
 
 
 #################### default parameters ################################
