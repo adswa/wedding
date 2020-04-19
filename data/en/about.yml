@@ -25,43 +25,44 @@ about:
 
   Adina schätzt an Gunnar seine unendliche Geduld bei Steuererklärungen,
   Gunnar wiederum schätzt an Adina dass er sie für den Rest ihrer Tage damit
-  aufziehen kann, dass sie kleiner ist als er. Gemeinsam genießen sie... "
+  aufziehen kann, dass sie kleiner ist als er. Gemeinsam genießen sie gemütliche
+  Abende auf dem Sofa, Ausflüge ins Grüne, und umfangreich kochen. "
 
   button:
     enable : false
     label : "Download Company Profile"
     link : "#"
 
-  funfacts:
+#  funfacts:
     # funfacts loop
-    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Completed Projects"
-      count : "349"
+#    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#      name : "Completed Projects"
+#      count : "349"
       
     # funfacts loop
-    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Lines Of Code"
-      count : "35000"
+#    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#      name : "Lines Of Code"
+#      count : "35000"
       
     # funfacts loop
-    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "70"
+#    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#      name : "Satisfied Customer"
+#      count : "70"
       
     # funfacts loop
-    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
-      count : "10"
+#    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#      name : "Awards Winner"
+#      count : "10"
       
     # funfacts loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Satisfied Customer"
-      count : "75"
+#    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#      name : "Satisfied Customer"
+#      count : "75"
       
     # funfacts loop
-    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Awards Winner"
-      count : "20"
+#    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#      name : "Awards Winner"
+#      count : "20"
       
 ################################ feature #####################################
 features:

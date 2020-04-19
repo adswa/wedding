@@ -3,8 +3,8 @@
 {{ partial "page-title.html" . }}
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
-{{ if $data.trauzeugen.pricing.enable }}
-{{ with $data.trauzeugen.pricing }}
+{{ if $data.trauzeugen.bestpeople.enable }}
+{{ with $data.trauzeugen.bestpeople }}
 <section class="pricing-table section bg-gray">
   <div class="container">
     <div class="row">
@@ -13,12 +13,15 @@
       <div class="col-md-4 col-sm-6 col-xs-12">
         <div class="pricing-item text-center">
           <div class="price-title">
-            <h3>{{ .name }}</h3>
-            <strong class="value">{{ .price }}</strong>
+            <h3>{{ .description }}</h3>
+            <strong class="value">{{ .name  }}</strong>
+            <div class="user">
+                <img src="{{ .image | relURL }}" alt="pic here">
+            </div>
             <p>{{ .content | markdownify }}</p>
           </div>
           <ul>
-            {{ range .services }}
+            {{ range .tags }}
             <li>{{ . | markdownify }}</li>
             {{ end }}
           </ul>

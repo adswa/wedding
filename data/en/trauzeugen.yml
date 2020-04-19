@@ -6,43 +6,44 @@ about:
   image : "images/bangkok.jpg"
 
 ################################ pricing ################################
-pricing:
+bestpeople:
   enable : true
   pricing_table:
     # pricing table loop
-    - name : "Organisationstalent"
-      price: "Natalie"
+    - description : "Organisationstalent"
+      name: "Natalie"
       content : "Als Arbeits- und Organisationspsychologin hat sie den vollen Plan"
+      image : "images/clients/adina_small.jpg"
       link : "#"
       bg_image : "images/pfingsrosen.jpg"
-      services:
+      tags:
         - lustige Tags
         - mehr lustige tags
         
     # pricing table loop
-    - name : "Alter Hase"
-      price: "Matthias"
+    - description : "Alter Hase"
+      name: "Matthias"
       content : "Als Ehemann hat Matthias mittlerweile langjährige Hochzeitserfahrung"
       link : "#"
-      services:
+      tags:
         - lustige Tags
         - mehr lustige tags
         
     # pricing table loop
-    - name : "???"
-      price: "Kai"
+    - description : "???"
+      name: "Kai"
       content : "Controller mit Herzblut"
       link : "#"
-      services:
+      tags:
         - lustige Tags
         - mehr lustige tags
 
     # pricing table loop
-    - name : "???"
-      price: "Kai"
+    - description : "???"
+      name: "Kai"
       content : "Controller mit Herzblut"
       link : "#"
-      services:
+      tags:
         - lustige Tags
         - mehr lustige tags
         
